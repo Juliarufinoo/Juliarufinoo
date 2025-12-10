@@ -2,14 +2,10 @@
 
 Cybersecurity | Cloud | DevSecOps | Developer
 
-<div align="left">
-
 🌑 Brazil
 🔐 Degree in Information Security
 🕯 Working at the intersection of development, cloud architectures, and defensive security
 🧩 Naturally curious and drawn to everything I don’t understand yet
-
-</div>
 
 ---
 
